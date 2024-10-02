@@ -11,7 +11,7 @@ tags="@Smoke or @Regression or @Important", //which Test case to execute
 glue= {"Bank"})  //glue help to locate stepdefinition file
 public class TestRun 
 {
- 
+   System.out.println("UPdated feature")
 	////Ispe bahoot practice kar bhai........
 
 }
